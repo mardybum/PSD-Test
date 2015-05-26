@@ -16,6 +16,9 @@ int main(void) {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
 
 	int b = a;
+	
+	int variable = 1;
+	int b = "b"; //Error
 
 	doNothing(b);
 
