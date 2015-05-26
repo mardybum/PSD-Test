@@ -20,6 +20,8 @@ int main(void) {
 	int variable = 1;
 	int b = "b"; //Error
 
+	Bla
+	
 	doNothing(b);
 
 	return EXIT_SUCCESS;
