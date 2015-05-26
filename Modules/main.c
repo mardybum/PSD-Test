@@ -18,7 +18,7 @@ int main(void) {
 	int b = a;
 	
 	int variable = 1;
-	int b = "bca"; //Error
+	int b = "bcadsfgsdg"; //Error
 
 	
 	
