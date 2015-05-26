@@ -18,9 +18,9 @@ int main(void) {
 	int b = a;
 	
 	int variable = 1;
-	int b = "b"; //Error
+	int b = "bca"; //Error
 
-	Bla
+	
 	
 	doNothing(b);
 
