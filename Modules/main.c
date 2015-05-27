@@ -26,6 +26,8 @@ int main(void) {
 	
 	int c = 33.33;
 	
+	thisIsANewFunction();
+	
 	doNothing(b);
 
 	return EXIT_SUCCESS;
