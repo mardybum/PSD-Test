@@ -20,7 +20,9 @@ int main(void) {
 	int variable = 1;
 	int b = "bcadsfgsdg"; //Error
 
-	String c = 35;
+	String c = 35
+	
+	dsf
 	
 	doNothing(b);
 
