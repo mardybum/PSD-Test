@@ -26,7 +26,9 @@ int main(void) {
 	
 	int c = 33.33;
 	
-	thisIsANewFunction();
+	thisIsANewFunction(); // delete
+	
+	//JO();asdf
 	
 	doNothing(b);
 
