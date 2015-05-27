@@ -23,8 +23,9 @@ int main(void) {
 	int variable = 1;
 	int b = "bcadsfgsdg"; //Error
 	
-	int variable = 1;
-	int b = "bcadsfgsdg"; //Error
+	HAHA This is bad
+	
+	int c = 33.33;
 	
 	doNothing(b);
 
